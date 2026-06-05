@@ -30,4 +30,4 @@ The models were evaluated using Mean Absolute Error (MAE) and $R^{2}$ score. XGB
 | **Random Forest** | 401.79 | 0.862 |
 | **Ridge Regression** | 2,152.33 | 0.0917 |
 
-Feature importance analysis revealed that purchase frequency and average order value are the dominant drivers of CLV[cite: 2].
+Feature importance analysis revealed that purchase frequency and average order value are the dominant drivers of CLV.
