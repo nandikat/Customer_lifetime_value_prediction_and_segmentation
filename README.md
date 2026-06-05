@@ -4,8 +4,6 @@ This project presents an end-to-end machine learning pipeline for predicting Cus
 
 ##  Project Overview
 * **Objective**: Segment customers based on value and behavior, and predict their future Customer Lifetime Value.
-* **Dataset**: The Online Retail II UCI dataset (sourced via Kaggle), which contains 1,067,371 historical online retail transactions from 2009-2011 for a UK-based online retailer.
-* **Problem Context**: The system handles a high rate of missing Customer IDs, cancelled transactions, and an extreme right-skew where the vast majority of transactions are compressed near £0.
 
 ##  Methodology
 1. **Data Cleaning**: Dropped rows with null Customer IDs (removing 22.77% of records), removed 34,335 duplicate rows, filtered out 19,494 cancelled transactions (invoices prefixed with 'C'), and excluded line items with negative or zero quantity.
