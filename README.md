@@ -24,7 +24,7 @@ The models were evaluated using Mean Absolute Error (MAE) and $R^{2}$ score. XGB
 
 | Model | MAE (£) | $R^{2}$ Score |
 | :--- | :--- | :--- |
-| **XGBoost (Proposed)** | 290.83 | 0.9301] |
+| **XGBoost (Proposed)** | 290.83 | 0.9301 |
 | **Random Forest** | 401.79 | 0.862 |
 | **Ridge Regression** | 2,152.33 | 0.0917 |
 
